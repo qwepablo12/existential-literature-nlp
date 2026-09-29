@@ -29,7 +29,7 @@ Texts are English translations from [Project Gutenberg](https://www.gutenberg.or
 3. Defined a keyword list for each theme (`THEMES` in the notebook).
 4. Counted keyword occurrences and normalised them to **occurrences per 1,000 words**,
    so long and short books can be compared.
-5. Checked examples and kept the list unchanged.
+5. Read random keyword-in-context examples for some keywords to check how the words are used (the keyword lists were not changed).
 
 ## Results
 
