@@ -33,7 +33,7 @@ Texts are English translations from [Project Gutenberg](https://www.gutenberg.or
 
 ## Results
 
-![Heatmap of theme frequency per 1,000 words, by book](heatmap_books.png)
+![Heatmap of theme frequency per 1,000 words, by book](heatmap_books-1.png)
 
 ## Findings
 
